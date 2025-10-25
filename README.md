@@ -8,20 +8,15 @@ I am a **Geoinformatics professional** specializing in the fusion of **AI, remot
 
 ### 🧠 Technical Ecosystem
 
-🛰️ **Remote Sensing & GIS:**  
-ArcGIS Pro · QGIS · ERDAS Imagine · ESA SNAP · Pix4D  
+🤖 **Data Analytics:** Crop Monitoring | Yield Estimation | Drought/Flood modeling | Emission Mapping
 
-🤖 **Machine & Deep Learning:**  
-TensorFlow · PyTorch · Scikit-learn · OpenCV · XGBoost  
+🛰️ **Image Processing:** ArcGIS Pro | QGIS | ERDAS Imagine | ESA SNAP | Pix4D  
 
-☁️ **Cloud & APIs:**  
-Google Earth Engine · AWS · ArcPy · RESTful API Development  
+☁️ **Cloud & APIs:** Google Earth Engine | AWS | ArcPy  
 
-📊 **Analytics & Visualization:**  
-Python · Jupyter · Pandas · NumPy · GDAL · Matplotlib  
+📊 **Analytics & Visualization:** Python | Jupyter | Pandas | NumPy | GDAL | Matplotlib  
 
-⚙️ **Workflow & Automation:**  
-ModelBuilder · GEE Scripting · Time-Series Modelling · MLOps Pipelines
+⚙️ **Workflow & Automation:** ModelBuilder | GEE Scripting | Time-Series Modelling | Spatial Automation Pipelines
 
 ---
 
