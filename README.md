@@ -2,8 +2,7 @@
 
 ### 🌍 Geospatial AI Researcher | Remote Sensing and GIS Analyst | Climate-Smart Agriculture
 
-I am a **Geoinformatics professional** specializing in the fusion of **AI, remote sensing**, and **sustainability science** to enhance data-driven agriculture.  
-My research bridges **satellite-based greenhouse gas (GHG) monitoring**, **AI-powered analytics**, and **climate-smart policy** for sustainable food systems.
+I am a **Geoinformatics professional** specializing in the fusion of **AI, remote sensing**, and **sustainability science** to enhance data-driven agriculture. My research bridges **satellite-based greenhouse gas (GHG) monitoring**, **AI-powered analytics**, and **climate-smart policy** for sustainable food systems.
 
 ---
 
