@@ -9,13 +9,9 @@ I am a **Geoinformatics professional** specializing in the fusion of **AI, remot
 ### 🧠 Technical Ecosystem
 
 🤖 **Data Analytics:** Crop Monitoring | Yield Estimation | Drought/Flood Modeling | Emission Mapping
-
 🛰️ **Image Processing:** ArcGIS Pro | QGIS | ERDAS Imagine | ESA SNAP | Pix4D  
-
 ☁️ **Cloud & APIs:** Google Earth Engine | AWS | ArcPy  
-
 📊 **Analytics & Visualization:** Python | Jupyter | Pandas | NumPy | GDAL | Matplotlib  
-
 ⚙️ **Workflow & Automation:** ModelBuilder | GEE Scripting | Time-Series Modelling | Spatial Automation Pipelines
 
 ---
@@ -29,10 +25,8 @@ I am a **Geoinformatics professional** specializing in the fusion of **AI, remot
 ---
 
 ### 🤝 Connect with Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pj-prajesh)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Pj-Prajesh)
-
 ---
 
-> “Every pixel tells a story — the challenge is teaching AI to understand it.”
+> “Every pixel tells a story - challenge is teaching GeoAI to understand it.”
