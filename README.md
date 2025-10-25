@@ -7,14 +7,22 @@ My research bridges **satellite-based greenhouse gas (GHG) monitoring**, **AI-po
 
 ---
 
-### 💻 Tech Toolbox
-| Domain | Tools |
-|--------|--------|
-| 🗺️ Remote Sensing | ArcGIS, QGIS, ERDAS Imagine, ESA SNAP, Pix4D |
-| 🤖 ML/DL | TensorFlow, PyTorch, Scikit-learn, OpenCV |
-| ☁️ Cloud & APIs | Google Earth Engine, AWS, ArcPy |
-| 📊 Analysis | Python, Jupyter, Pandas, NumPy, GDAL |
-| ⚙️ Workflow | ModelBuilder, Time-Series Modelling, Automation |
+### 🧠 Technical Ecosystem
+
+🛰️ **Remote Sensing & GIS:**  
+ArcGIS Pro · QGIS · ERDAS Imagine · ESA SNAP · Pix4D  
+
+🤖 **Machine & Deep Learning:**  
+TensorFlow · PyTorch · Scikit-learn · OpenCV · XGBoost  
+
+☁️ **Cloud & APIs:**  
+Google Earth Engine · AWS · ArcPy · RESTful API Development  
+
+📊 **Analytics & Visualization:**  
+Python · Jupyter · Pandas · NumPy · GDAL · Matplotlib  
+
+⚙️ **Workflow & Automation:**  
+ModelBuilder · GEE Scripting · Time-Series Modelling · MLOps Pipelines
 
 ---
 
