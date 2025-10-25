@@ -8,7 +8,7 @@ I am a **Geoinformatics professional** specializing in the fusion of **AI, remot
 
 ### 🧠 Technical Ecosystem
 
-🤖 **Data Analytics:** Crop Monitoring | Yield Estimation | Drought/Flood modeling | Emission Mapping
+🤖 **Data Analytics:** Crop Monitoring | Yield Estimation | Drought/Flood Modeling | Emission Mapping
 
 🛰️ **Image Processing:** ArcGIS Pro | QGIS | ERDAS Imagine | ESA SNAP | Pix4D  
 
